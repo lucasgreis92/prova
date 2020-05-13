@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("api/rs/v1/case")
+@RequestMapping("rs/v1/case")
 public class CaseController {
 
     @Autowired
