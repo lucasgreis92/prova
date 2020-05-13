@@ -6,7 +6,7 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
 
 
-@RepositoryRestResource(collectionResourceRel = "case", path = "case")
+@RepositoryRestResource(collectionResourceRel = "case", path = "repositorycase")
 public interface CaseRepository extends DatastoreRepository<Case, String> {
 
 
