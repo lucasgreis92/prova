@@ -1,4 +1,4 @@
-package br.com.lgrapplication.bdr.prova.prova.config;
+package br.com.lgrapplication.bdr.prova.config;
 
 
 import org.springframework.cloud.gcp.autoconfigure.datastore.DatastoreProvider;

@@ -1,4 +1,4 @@
-package br.com.lgrapplication.bdr.prova.prova
+package br.com.lgrapplication.bdr.prova
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
